@@ -43,6 +43,14 @@
     "xmb10p": {
       "version": "0.0.1",
       "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+    },
+    "xmb10": {
+      "version": "0.0.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+    },
+    "xmb9": {
+      "version": "0.0.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
     }
   },
   "ext": {}
