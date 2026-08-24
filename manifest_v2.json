@@ -30,7 +30,7 @@
       "icon": ""
     },
     {
-      "title": "同步器",
+      "title": "同步器下载",
       "url": "https://pan.quark.cn/s/30cee6c2d400",
       "icon": ""
     }
@@ -56,11 +56,15 @@
       "version": "7",
       "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     },
+    "xmrw5xring": {
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+    },
     "xmrw6": {
       "version": "7",
       "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     },
-    "xmrw5xring": {
+    "xmb10nfc": {
       "version": "7",
       "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     }
