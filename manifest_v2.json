@@ -30,27 +30,39 @@
       "icon": ""
     },
     {
-      "title": "10 Pro同步器",
-      "url": "https://pan.quark.cn/s/e280627cbafd",
+      "title": "同步器",
+      "url": "https://pan.quark.cn/s/30cee6c2d400",
       "icon": ""
     }
   ],
   "downloads": {
     "xmb9p": {
-      "version": "0.0.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     },
     "xmb10p": {
-      "version": "0.0.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     },
     "xmb10": {
-      "version": "0.0.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     },
     "xmb9": {
-      "version": "0.0.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.1.rpk"
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+    },
+    "xmrw5": {
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+    },
+    "xmrw6": {
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+    },
+    "xmrw5xring": {
+      "version": "7",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
     }
   },
   "ext": {}
