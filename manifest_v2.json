@@ -27,46 +27,102 @@
     {
       "title": "官网",
       "url": "https://cf.easejun.cn/",
-      "icon": ""
+      "icon": "globe"
     },
     {
       "title": "同步器下载",
       "url": "https://pan.quark.cn/s/30cee6c2d400",
-      "icon": ""
+      "icon": "download"
     }
   ],
   "downloads": {
     "xmb9p": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmb9": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmrw5": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "7",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.0.7.rpk"
+      "version": "0.1.1",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
+      "versionCode": 11,
+      "updatelogs": [
+        {
+          "version": "0.1.1",
+          "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
+        }
+      ]
     }
   },
   "ext": {}
