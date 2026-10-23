@@ -37,10 +37,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -48,10 +52,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -59,10 +67,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -70,10 +82,14 @@
       ]
     },
     "xmb9": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -81,10 +97,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -92,10 +112,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -103,10 +127,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
@@ -114,10 +142,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.1.1",
-      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.1.1.rpk",
-      "versionCode": 11,
+      "version": "0.2.0",
+      "file_name": "downloads/com.hachimi.watch.catsforce.release.0.2.0.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "1. 新增地图「极地冷链港」，支持普通、机密两种行动模式。\n2. 地图内设3处卡房及公开大小保险箱，拉电后同时开放核心冷库、海侧通道和码头撤离点。\n3. 修复中上仓库右侧跨区卡墙问题，完善跨区落点检查，避免角色嵌入墙体。"
+        },
         {
           "version": "0.1.1",
           "content": "1.优化探索页移动和碰撞计算，减轻贴墙移动及多敌人场景的运行负担。\n2.优化附近交互提示，减少重复扫描和界面刷新。\n3.减少从背包、战利品页面返回地图时的重复计算。"
